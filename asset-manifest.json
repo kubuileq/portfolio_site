@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.611a67c1.css",
+    "main.js": "/static/js/main.15d7d4e7.js",
+    "static/js/453.1dd711a6.chunk.js": "/static/js/453.1dd711a6.chunk.js",
+    "static/media/animatedBackgroundHero.mp4": "/static/media/animatedBackgroundHero.61e840b9604699c2bbd0.mp4",
+    "static/media/portfolio.png": "/static/media/portfolio.ab6b71160f32e097468d.png",
+    "static/media/sigma-casino.jpg": "/static/media/sigma-casino.3983331588d112594a1c.jpg",
+    "static/media/RobotoDefault.ttf": "/static/media/RobotoDefault.3c9d0f6513f7cfe91016.ttf",
+    "static/media/mysql.svg": "/static/media/mysql.1957fab3610b78c02010dab864c2d6b8.svg",
+    "static/media/react.svg": "/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "static/media/css.svg": "/static/media/css.f51283fc0aa2adef0d37111e55b23dda.svg",
+    "static/media/uk.svg": "/static/media/uk.09598dcec149fda6bebb314e88f137e9.svg",
+    "static/media/php.svg": "/static/media/php.1942de9eeb653e4d3d0138c24d39939b.svg",
+    "static/media/javascript.svg": "/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
+    "index.html": "/index.html",
+    "static/media/html5.svg": "/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
+    "static/media/pl.svg": "/static/media/pl.420167ce74dacaa77be0ec26c972b7c7.svg",
+    "main.611a67c1.css.map": "/static/css/main.611a67c1.css.map",
+    "main.15d7d4e7.js.map": "/static/js/main.15d7d4e7.js.map",
+    "453.1dd711a6.chunk.js.map": "/static/js/453.1dd711a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611a67c1.css",
+    "static/js/main.15d7d4e7.js"
+  ]
+}
